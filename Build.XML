@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CyntexaDemo" default="build" basedir=".">
+
+    <target name="build" description="Main build target for CyntexaDemo">
+        <echo message="Build successful! Kobee ITS integration active."/>
+    </target>
+
+</project>
+<!-- test -->
